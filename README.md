@@ -5,7 +5,7 @@ You can watch us explaining the project in this 5-min video at [YouTube](https:/
 
 You can also read a concise introduction to the topic in this [handout](https://github.com/xinbo-hubert-wang/PySAD-Anomaly-Detection-for-NYC-Taxi/blob/main/handout.pdf).
 
-The rest of this doc and the repository will be focused on the technical details.
+The rest of this doc and the repository will be focused on the technical details. If you are interesed in running the code your self, please turn to the [notebook](https://github.com/xinbo-hubert-wang/PySAD-Anomaly-Detection-for-NYC-Taxi/blob/main/PySAD-Anomaly-Detection-for-NYC-Taxi.ipynb) and download the prepared data provided in the repository.
 
 ## The Code Example
 
