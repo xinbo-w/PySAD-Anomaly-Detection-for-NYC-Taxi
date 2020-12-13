@@ -1,3 +1,12 @@
+## Introduction
+This repository is an example on how to use PySAD to implement an anomaly detection system for a taxi company. This is a work from the team of Yuzy Ye, [Xinbo Wang](https://github.com/xinbo-hubert-wang), and Simin Liao.
+
+You can watch us explaining the project in this 5-min video at [YouTube](https://youtu.be/Wahh8MlUUpI)
+
+You can also read a concise introduction to the topic in this handout.
+
+The rest of this doc and the repository will be focused on the technical details.
+
 ## The Code Example
 
 Following is the code example on how we can implement an anomaly detection system for NYC Taxi. 
