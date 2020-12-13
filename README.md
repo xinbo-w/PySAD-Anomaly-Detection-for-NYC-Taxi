@@ -3,7 +3,7 @@ This repository is an example on how to use PySAD to implement an anomaly detect
 
 You can watch us explaining the project in this 5-min video at [YouTube](https://youtu.be/Wahh8MlUUpI)
 
-You can also read a concise introduction to the topic in this handout.
+You can also read a concise introduction to the topic in this [handout](https://github.com/xinbo-hubert-wang/PySAD-Anomaly-Detection-for-NYC-Taxi/blob/main/handout.pdf).
 
 The rest of this doc and the repository will be focused on the technical details.
 
