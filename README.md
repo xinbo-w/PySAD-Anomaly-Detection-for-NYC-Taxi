@@ -4,7 +4,7 @@
 ## Introduction
 This work belongs to Yuzy Ye, [Xinbo Wang](https://github.com/xinbo-hubert-wang), and Simin Liao as a team.
 
-This repository is an example on how to use PySAD to implement an anomaly detection system for a taxi company (Dataset: [NYC TLC Open Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)). 
+This project is meant to be an example of how to use the Python PySAD library to implement a machine learning based real-time anomaly detection system. The project builds on the NYC Taxi Open Data ([NYC TLC Open Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)) and demonstrates how this technique could help businesses capture unexpected fluctuations in their daily operations, and make timely responses to improve the business.
 
 You can watch us explaining the project in this 5-min video at [YouTube](https://youtu.be/Wahh8MlUUpI)
 
